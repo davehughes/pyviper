@@ -1,0 +1,6 @@
+hacking
+nose
+coverage
+ipdb
+ipdbplugin
+setuptools>=18.5
